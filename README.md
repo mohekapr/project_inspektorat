@@ -5,7 +5,7 @@ Pada file <b>project_inspektorat.zip</b> terdapat 1 folder aplikasi dan 1 file d
 
 Cara menjalankan program/aplikasi Inspektorat :<br/>
 <li>Download <b>project_inspektorat.zip</b></li>
-<li>Setelah terdownload, ekstrak file tersebut dan simpan folder <b>insepktorat</b> pada direktory web server Anda.</li>
+<li>Setelah terdownload, ekstrak file tersebut dan simpan folder <b>insepktorat</b> pada directory web server Anda.</li>
 <li>Import database <b>db_inspektorat.sql</b></li>
 <li>Kemudian jalankan programnya pada browser kesayang Anda.</li><br/>
 
